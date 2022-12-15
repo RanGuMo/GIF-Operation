@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GIF-Operation/1.0.0": {
+        "dependencies": {
+          "Gif.Components": "0.0.0.1"
+        },
+        "runtime": {
+          "GIF-Operation.dll": {}
+        }
+      },
+      "Gif.Components/0.0.0.1": {
+        "runtime": {
+          "Gif.Components.dll": {
+            "assemblyVersion": "0.0.0.1",
+            "fileVersion": "0.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GIF-Operation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gif.Components/0.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
